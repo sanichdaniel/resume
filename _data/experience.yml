@@ -1,6 +1,6 @@
 # Jobs
 # MVL ((주)이지식스)
-- company: MVL ((주)이지식스)
+- company: (주)이지식스 - 산업기능요원
   position: iOS Developer
   duration: Oct, 2018 - Present
-  summary: TADA Driver/rider ios 앱 개발에 참여함. 기존의 MVC 아키텍처를 ReactorKit를 이용하여 MVVM으로 리팩토링 참여. 앱이 커질수록 navigation이 복잡해지고, 의존성이 커져 RxFlow 주도적으로 도입. 대구 MaaS 앱 개발 총괄.
+  summary: TADA Driver/rider ios 앱 개발, 리팩토링에 참여함. 대구 MaaS 앱 개발 총괄.
