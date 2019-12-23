@@ -6,7 +6,7 @@
   role: iOS Developer
   duration: Sep, 2019 - Present
   # url: "#"
-  description: 대구 MaaS (대중교통을 포함한 다양한 교통수단에 대한 교통정보를 제공하고, 통합하여 예약 및 요금결제하는 서비스) 앱개발을 총괄하였습니다. Swinject를 이용하여 의존성 주입을 해주었습니다. ReactorKit을 이용한 MVVM아키텍쳐 입니다. 화면간의 의존성 분리를 위해 Coordinator패턴을 도입했습니다.
+  description: 대구 MaaS (대중교통을 포함한 다양한 교통수단에 대한 교통정보를 제공하고, 통합하여 예약 및 요금결제하는 서비스) 앱개발을 총괄하였습니다. ReactorKit을 이용한 MVVM아키텍쳐로 구성하였습니다. Swinject를 이용하여 의존성 주입을 해주었습니다. 화면간의 의존성 분리를 위해 Coordinator패턴을 도입했습니다.
 
 # CleanArchitecture
 - project: Clean Architecture
