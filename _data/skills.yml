@@ -1,4 +1,8 @@
 # Skills
 # iOS Development
 - skill: iOS Development
-  description: Swift, RxSwift, ReactorKit, React, Redux, Node.js
+  description: Swift, RxSwift, ReactorKit
+- skill: FrontEnd
+  description: React, Redux
+- skill: BackEnd
+  description: Node.js
